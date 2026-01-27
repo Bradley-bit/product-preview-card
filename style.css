@@ -47,6 +47,11 @@ img{
     border-bottom-left-radius: 10px;
 }
 
+.description {
+    margin-top: 20px;
+}
+
+
 .contents {
     padding: 20px 40px;
 }
