@@ -78,12 +78,22 @@ img{
 }
 
 
+.cart-icon {
+    width: 15%;
+    margin-right: 10px;
+}
+
 button {
-    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
     margin-top: 40px;
     color: hsl(0, 0%, 100%);
     background-color: hsl(158, 36%, 37%);
     padding: 15px 70px;
     border: none;
     border-radius: 10px;
+    font-weight: 700;
+    font-size: 15px;
 }
