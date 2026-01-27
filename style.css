@@ -5,6 +5,7 @@
 }
 
 body {
+    font-family: Fraunces;
     background-color: hsl(30, 38%, 92%);
     line-height: 1.5;
 }
