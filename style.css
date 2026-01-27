@@ -59,6 +59,12 @@ img{
     font-weight: 700;
 }
 
+.small-text {
+    text-decoration: line-through;
+    font-size: 16px;
+    align-self: center;
+}
+
 
 button {
     width: 250px;
