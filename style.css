@@ -31,3 +31,7 @@ img{
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+
+.contents {
+    padding: 30px;
+}
