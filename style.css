@@ -18,6 +18,10 @@ body {
     color: hsl(212, 21%, 14%);
 }
 
+.green-text {
+    color: hsl(158, 42%, 18%);
+}
+
 .container {
     height: 100vh;
     display: flex;
