@@ -48,10 +48,12 @@ img{
 }
 
 .contents {
-    padding: 30px;
+    padding: 20px 40px;
 }
 
 button {
+    width: 250px;
+    margin-top: 40px;
     color: hsl(0, 0%, 100%);
     background-color: hsl(158, 36%, 37%);
     padding: 15px 70px;
