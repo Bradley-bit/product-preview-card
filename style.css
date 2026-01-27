@@ -9,6 +9,12 @@ body {
     line-height: 1.5;
 }
 
+/* Font-colors */
+.grey-text {
+    color: hsl(228, 12%, 48%)
+}
+
+
 .container {
     height: 100vh;
     display: flex;
